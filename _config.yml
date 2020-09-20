@@ -22,8 +22,8 @@ title: Shife
 email: davidblue@extratone.com
 description: >- # this means to ignore newlines until "baseurl:"
   Good morning! This is S h i f e  n e t.
-baseurl: "/Shife" # the subpath of your site, e.g. /blog
-url: "https://neoyokel.github.io/Shife/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/shife" # the subpath of your site, e.g. /blog
+url: "https://neoyokel.github.io/shife/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: NeoYokel
 github_username:  NeoYokel
 
